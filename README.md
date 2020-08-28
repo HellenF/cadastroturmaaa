@@ -28,7 +28,7 @@ Função DATEDIFF.Alias no link da microsoft é possivel tirar várias duvidas.
 
 (-)  Swagger ( imagem)
 
-(-)  Entidade Readme ( como a idade é calculada )
+(ok)  Entidade Readme ( como a idade é calculada )
 
-(fazendo)Falando sobre aprendizagens na construção da API * estão na ISSUES do projeto
+(ok)Falando sobre aprendizagens na construção da API * estão na ISSUES do projeto
 
