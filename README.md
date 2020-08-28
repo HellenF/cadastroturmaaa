@@ -18,7 +18,7 @@ https://docs.microsoft.com/pt-br/dax/datediff-function-dax
 Função DATEDIFF.Alias no link da microsoft é possivel tirar várias duvidas.
 
 
-#Tópicos dos conteudos:
+:1234:Tópicos dos conteudos:
 
 :heavy_check_mark:Descrição do projeto
 
@@ -31,5 +31,19 @@ Função DATEDIFF.Alias no link da microsoft é possivel tirar várias duvidas.
 :heavy_check_mark:Falando sobre aprendizagens na construção da API * estão na ISSUES do projeto
 
 :red_circle:Swagger ( imagem)
+
+
+:computer: Tecnologias usadas
+
+:heavy_check_mark: c#
+
+:heavy_check_mark: ASP.NET Core 3 
+
+:heavy_check_mark: EF Core 3
+
+:heavy_check_mark: Insomnia
+
+
+    
 
 
