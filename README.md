@@ -20,6 +20,7 @@ Função DATEDIFF.Alias no link da microsoft é possivel tirar várias duvidas.
 
 #Tópicos dos conteudos:
 
+
 (ok) Descrição do projeto
 
 (ok) Clean Code * falando sobre
@@ -28,7 +29,7 @@ Função DATEDIFF.Alias no link da microsoft é possivel tirar várias duvidas.
 
 (-)  Swagger ( imagem)
 
-(ok)  Entidade Readme ( como a idade é calculada )
+(ok) Entidade Readme ( como a idade é calculada )
 
 (ok)Falando sobre aprendizagens na construção da API * estão na ISSUES do projeto
 
