@@ -20,16 +20,16 @@ Função DATEDIFF.Alias no link da microsoft é possivel tirar várias duvidas.
 
 #Tópicos dos conteudos:
 
+:heavy_check_mark:Descrição do projeto
 
-(ok) Descrição do projeto
+:heavy_check_mark: Clean Code * falando sobre
 
-(ok) Clean Code * falando sobre
+:heavy_check_mark: Diagrama de classe
 
-(ok) Diagrama de classe
+:heavy_check_mark:Entidade Readme ( como a idade é calculada )
 
-(-)  Swagger ( imagem)
+:heavy_check_mark:Falando sobre aprendizagens na construção da API * estão na ISSUES do projeto
 
-(ok) Entidade Readme ( como a idade é calculada )
+:red_circle:Swagger ( imagem)
 
-(ok)Falando sobre aprendizagens na construção da API * estão na ISSUES do projeto
 
