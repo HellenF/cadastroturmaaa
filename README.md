@@ -1,9 +1,9 @@
-# cadastroturmaaa
+#:bookmark_tabs: cadastroturmaaa
 
 ![giphycadastro](https://user-images.githubusercontent.com/28712925/91189356-bef81b00-e6c8-11ea-930d-5e0b293421ea.gif)
 
 
-#API de cadastro de turma e aluno com os seguintes requisitos:
+:school:API de cadastro de turma e aluno com os seguintes requisitos:
 
     *Turma:*
     titulo da turma, quantidade de alunos, idade Media.
