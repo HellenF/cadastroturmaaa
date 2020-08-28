@@ -15,7 +15,7 @@ Uma coisa nova e legal foi descobrir que existe um modo de calcular idade em c# 
 
 https://docs.microsoft.com/pt-br/dax/datediff-function-dax
 
-Função DATEDIFF.Alias no link da microsoft é possivel tirar várias duvidas.
+Função DATEDIFF. Aliás no link da microsoft é possivel tirar várias duvidas.
 
 
 :1234:Tópicos dos conteudos:
